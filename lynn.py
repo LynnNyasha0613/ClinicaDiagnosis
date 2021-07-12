@@ -48,11 +48,6 @@ def main():
         result=pred(symptom1,symptom2,symptom3,symptom4)
     st.success("output is {}".format(result))
     
-    
-    
-
-
 if __name__ == '__main__':
-    
     main()
     
