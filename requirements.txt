@@ -2,6 +2,3 @@ numpy
 streamlit
 seaborn
 pandas
-scikit_learn
-tensorflow
-tornado
